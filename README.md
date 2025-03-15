@@ -1,7 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg" alt="logo" width="70%" /></p>
 
 <p align="center">
-  <a href="https://pypi.org/project/hydra-core/">
+  <a href="https://pypi.org/project/hydra-core/"> Instagram account kaise hack kare 2
+    #pawanpatell
     <img src="https://img.shields.io/pypi/v/hydra-core" alt="PyPI" />
   </a>
   <a href="https://circleci.com/gh/facebookresearch/hydra">
@@ -67,7 +68,10 @@ Check out the Meta AI [blog post](https://ai.facebook.com/blog/reengineering-fac
 ### Citing Hydra
 If you use Hydra in your research please use the following BibTeX entry:
 ```BibTeX
-@Misc{Yadan2019Hydra,
+@Misc{Yadan2019Hydra#hhhgbahhhbabbau kbva aj
+kjbababbaiHan
+ koibha
+,
   author =       {Omry Yadan},
   title =        {Hydra - A framework for elegantly configuring complex applications},
   howpublished = {Github},
